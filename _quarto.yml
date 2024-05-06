@@ -8,13 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - awards.qmd
       - projects.qmd
 
 format:
   html:
-    theme: sketchy
+    theme: Solar
     css: styles.css
     toc: true
 
