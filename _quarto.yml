@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "dwaynet87.github.io"
+  title: "Dwayne R. Tucker, PhD Candidate"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - awards.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: solar
     css: styles.css
     toc: true
 
