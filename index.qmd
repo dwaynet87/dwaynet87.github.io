@@ -1,7 +1,8 @@
 ---
-title: "D.R. Tucker"
+title: "Dwayne R. Tucker, PhD Candidate"
 image: folding_headshot.jpg
 about:
+  id: me
   template: jolla
   image-shape: round
   image-width: 15em
@@ -14,3 +15,13 @@ about:
       href: https://github.com/dwaynet87/
 ---
 
+:::{#me}
+## Goals
+
+
+## Interests
+
+
+## Skills
+
+:::

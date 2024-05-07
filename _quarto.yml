@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dwayne R. Tucker, PhD Candidate"
+  title: "Dwayne Tucker"
   navbar:
     left:
       - href: index.qmd
