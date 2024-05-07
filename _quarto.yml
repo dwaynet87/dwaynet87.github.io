@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - awards.qmd
+      - education.qmd
       - projects.qmd
+      - awards.qmd
+      
 
 format:
   html:
