@@ -7,6 +7,41 @@
     "text": "PhD in Women’s + & Children Health Sciences, (expected - 2024)\n\nThe University of British Columbia, Vancouver, Canada\n\n\nThesis Title: Clinical and Molecular Prediction of Pain Outcomes After Endometriosis Surgery\n\n\nSupervisors:  Dr. Paul Yong  |  Dr. Aline Talhouk \n\n\n\nMSc in Oncology, (2017)\n\nUniversity of Nottingham, Nottingham, United Kingdom\n\n\nThesis Title: Characterisation of Integrin Beta-3 in response to sublethal chemotoxicity in Acute Myeloid Leukaemia\n\n\nSupervisor: Dr. Monica Pallis\n\n\n\nBSc in Medical Technology, (2010)\n\nNorthern Caribbean University, Manchester, Jamaica\n\n\nThesis Title: Should the clinical laboratory recommend that Vanillylmandelic Acid (VMA) be a test routinely ordered for hypertensive patients?"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Journal Articles\n\nDungate B, Tucker DR, Goodwin E, Yong PJ.  Assessing the Utility of artificial intelligence in endometriosis: Promises and pitfalls.  Womens Health (Lond). 2024 Jan-Dec;20:17455057241248121. doi: 10.1177/17455057241248121. PMID: 38686828; PMCID: PMC11062212.\nZoet G, Tucker DR, Orr NL, Alotaibi FT, Liu YD, Noga H, Köbel M, Yong PJ.  Standardized protocol for quantification of nerve bundle density as a biomarker for endometriosis.  Front Reprod Health. 2023 Nov 30;5:1297986. doi: 10.3389/frph.2023.1297986. PMID: 38098984; PMCID: PMC10720898.\nTucker DR, Noga HL, Lee C, Chiu DS, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ.  Pelvic pain comorbidities associated with quality of life after endometriosis surgery.  Am J Obstet Gynecol. 2023 Aug;229(2):147.e1-147.e20. doi: 10.1016/j.ajog.2023.04.040. Epub 2023 May 4. PMID:37148956.\nTucker D, Zheng W, Zhang DH, Dong X.  Circular RNA and its potential as prostate cancer biomarkers.  World J Clin Oncol. 2020 Aug 24;11(8):563-572. doi: 10.5306/wjco.v11.i8.563. PMID: 32879844; PMCID: PMC7443832.\nDonovan McGrowder, Dwayne Tucker, Fabian Miller.  Prostate Specific Antigen Testing in a Tertiary Teaching Hospital.  Indian Journal of Applied Research. 2019 March; 9(3):4-7. doi: 10.36106/ijar.\n\n\n\nBook Chapters\n\nMiller, F., Anderson, M., Tucker, D., Vaz, K., Brown, J., Anderson-Jackson, L., & McGrowder, D. A.  Diabetes: biopsychosocial features affecting metabolic control and treatment adherence.  Biopsychosocial Perspectives and Practices for Addressing Communicable and Non-Communicable Diseases, edited by Simon George Taukeni, 106-133. Hershey, PA: IGI Global, 2020. https://doi.org/10.4018/978-1-7998-2139-7.ch007\nAnderson, M., Tucker, D., Miller, F. G., Vaz, K., Anderson-Jackson, L., & McGrowder, D.  Quality of Life and Well-Being of Breast Cancer Patients.  In Psycho-Social Perspectives on Mental Health and Well-Being, edited by Srinivasan Padmanaban and Chittaranjan Subudhi, 67-94. Hershey, PA: IGI Global, 2020. https://doi.org/10.4018/978-1-7998-1185-5.ch004\nMcGrowder, D., Tucker, D., Miller, F. G., Anderson, M., Vaz, K. A., & Anderson-Jackson, L.  Accreditation of Medical Laboratories: Challenges and Opportunities.  Handbook of Research on Modern Educational Technologies, Applications, and Management, edited by Mehdi Khosrow-Pour D.B.A., 600-616. Hershey, PA: IGI Global, 2021. https://doi.org/10.4018/978-1-7\nTucker D, Anderson M, Miller F, Vaz K, Anderson-Jackson L, McGrowder D.  Dietary Antioxidants in the Chemoprevention of Prostate Cancer [Internet]. Antioxidants.  IntechOpen; 2019. Available from: http://dx.doi.org/10.5772/intechopen.85770"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1: Pelvic pain comorbidities and quality of life after endometriosis surgery"
+  },
+  {
+    "objectID": "projects.html#phd-projects",
+    "href": "projects.html#phd-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1: Pelvic pain comorbidities and quality of life after endometriosis surgery"
+  },
+  {
+    "objectID": "projects.html#project-2-predicting-pain-outcomes-after-endometriosis-surgery",
+    "href": "projects.html#project-2-predicting-pain-outcomes-after-endometriosis-surgery",
+    "title": "Projects",
+    "section": "Project 2: Predicting pain-outcomes after endometriosis surgery",
+    "text": "Project 2: Predicting pain-outcomes after endometriosis surgery"
+  },
+  {
+    "objectID": "projects.html#project-3-somatic-immunohistochemistry-loss-and-endometriosis-burden",
+    "href": "projects.html#project-3-somatic-immunohistochemistry-loss-and-endometriosis-burden",
+    "title": "Projects",
+    "section": "Project 3: Somatic Immunohistochemistry loss and endometriosis burden",
+    "text": "Project 3: Somatic Immunohistochemistry loss and endometriosis burden"
+  },
+  {
     "objectID": "awards.html",
     "href": "awards.html",
     "title": "Recognitions",
@@ -21,20 +56,6 @@
     "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter-X\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n\n      \n\n\nHi!\nI am a PhD candidate in the  Women+ and Children’s Health Sciences (WACH) program  at  The University of British Columbia (UBC)  in Vancouver, British Columbia, Canada. As part of the  Endometriosis & Pelvic Pain Laboratory  and  Uterine Health Reasearch Lab , my doctoral research delves into predicting pain outcomes in endometriosis, employing a combination of machine learning, clinical modelling, and molecular pathology approaches.\nI am a trained clinical laboratory scientist with extensive experience in chemical pathology and haematology, gained at  The University of the West Indies  and the  University Hospital of the West Indies , in Jamaica. Additionally, I hold an  MSc in Oncology  from the  University of Nottingham , in the United Kingdom.\nThrough my professional and doctoral work, I developed a keen interest in leveraging the power of data to advance health outcomes, particularly amongst marginalized communities.\n\n\n\n\nClinical Prediction Modelling & Predictive Analytics\nMachine Learning\nHealth Outcomes and Public Health\nData Science\nScience Communication and Writing"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Journal Articles\n\nDungate B, Tucker DR, Goodwin E, Yong PJ.  Assessing the Utility of artificial intelligence in endometriosis: Promises and pitfalls.  Womens Health (Lond). 2024 Jan-Dec;20:17455057241248121. doi: 10.1177/17455057241248121. PMID: 38686828; PMCID: PMC11062212.\nZoet G, Tucker DR, Orr NL, Alotaibi FT, Liu YD, Noga H, Köbel M, Yong PJ.  Standardized protocol for quantification of nerve bundle density as a biomarker for endometriosis.  Front Reprod Health. 2023 Nov 30;5:1297986. doi: 10.3389/frph.2023.1297986. PMID: 38098984; PMCID: PMC10720898.\nTucker DR, Noga HL, Lee C, Chiu DS, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ.  Pelvic pain comorbidities associated with quality of life after endometriosis surgery.  Am J Obstet Gynecol. 2023 Aug;229(2):147.e1-147.e20. doi: 10.1016/j.ajog.2023.04.040. Epub 2023 May 4. PMID:37148956.\nTucker D, Zheng W, Zhang DH, Dong X.  Circular RNA and its potential as prostate cancer biomarkers.  World J Clin Oncol. 2020 Aug 24;11(8):563-572. doi: 10.5306/wjco.v11.i8.563. PMID: 32879844; PMCID: PMC7443832.\nDonovan McGrowder, Dwayne Tucker, Fabian Miller.  Prostate Specific Antigen Testing in a Tertiary Teaching Hospital.  Indian Journal of Applied Research. 2019 March; 9(3):4-7. doi: 10.36106/ijar.\n\n\n\nBook Chapters\n\nMiller, F., Anderson, M., Tucker, D., Vaz, K., Brown, J., Anderson-Jackson, L., & McGrowder, D. A.  Diabetes: biopsychosocial features affecting metabolic control and treatment adherence.  Biopsychosocial Perspectives and Practices for Addressing Communicable and Non-Communicable Diseases, edited by Simon George Taukeni, 106-133. Hershey, PA: IGI Global, 2020. https://doi.org/10.4018/978-1-7998-2139-7.ch007\nAnderson, M., Tucker, D., Miller, F. G., Vaz, K., Anderson-Jackson, L., & McGrowder, D.  Quality of Life and Well-Being of Breast Cancer Patients.  In Psycho-Social Perspectives on Mental Health and Well-Being, edited by Srinivasan Padmanaban and Chittaranjan Subudhi, 67-94. Hershey, PA: IGI Global, 2020. https://doi.org/10.4018/978-1-7998-1185-5.ch004\nMcGrowder, D., Tucker, D., Miller, F. G., Anderson, M., Vaz, K. A., & Anderson-Jackson, L.  Accreditation of Medical Laboratories: Challenges and Opportunities.  Handbook of Research on Modern Educational Technologies, Applications, and Management, edited by Mehdi Khosrow-Pour D.B.A., 600-616. Hershey, PA: IGI Global, 2021. https://doi.org/10.4018/978-1-7\nTucker D, Anderson M, Miller F, Vaz K, Anderson-Jackson L, McGrowder D.  Dietary Antioxidants in the Chemoprevention of Prostate Cancer [Internet]. Antioxidants.  IntechOpen; 2019. Available from: http://dx.doi.org/10.5772/intechopen.85770"
-  },
-  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Dwayne R. Tucker, MSc, PhD Candidate",
@@ -47,5 +68,12 @@
     "title": "Dwayne R. Tucker, MSc, PhD Candidate",
     "section": "",
     "text": "Clinical Prediction Modelling & Predictive Analytics\nMachine Learning\nHealth Outcomes and Public Health\nData Science\nScience Communication and Writing"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

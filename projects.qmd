@@ -2,10 +2,10 @@
 title: "Projects"
 ---
 
-# PhD Projects
+## PhD Projects
 
-## Project 1: Pelvic pain comorbidities and quality of life after endometriosis surgery
+### Project 1: Pelvic pain comorbidities and quality of life after endometriosis surgery
 
-## Project 2: Predicting pain-outcomes after endometriosis surgery
+### Project 2: Predicting pain-related outcomes after endometriosis surgery
 
-## Project 3: Somatic Immunohistochemistry loss and endometriosis burden
+### Project 3: Somatic PTEN and ARID1A loss and endometriosis disease burden
