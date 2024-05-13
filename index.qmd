@@ -1,9 +1,9 @@
 ---
-title: "Dwayne R. Tucker, PhD Candidate"
+title: "Dwayne R. Tucker, MSc, PhD Candidate"
 image: folding_headshot.jpg
 about:
   id: me
-  template: jolla
+  template: solana
   image-shape: round
   image-width: 15em
   links: 
@@ -13,15 +13,33 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/dwaynet87/
+    - text: Twitter-X
+      icon: twitter-x
+      href: https://twitter.com/d_toquor
+    - text: Google Scholar
+      icon: google
+      href: https://scholar.google.ca/citations?hl=en&user=xoqFLeQAAAAJ
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/dwayne-tucker-bsc-mt-msc-628028155/
 ---
 
 :::{#me}
-## Goals
+## About me
+Hi!
 
+I am a PhD candidate in the <a href="https://wach.med.ubc.ca"> Women+ and Children's Health Sciences (WACH) program </a> at <a href="https://www.ubc.ca"> The University of British Columbia (UBC) </a> in Vancouver, British Columbia, Canada. As part of the <a href="https://yonglab.med.ubc.ca"> Endometriosis & Pelvic Pain Laboratory </a> and <a href="https://uterinehealth.ca"> Uterine Health Reasearch Lab </a>, my doctoral research delves into predicting pain outcomes in endometriosis, employing a combination of machine learning, clinical modelling, and molecular pathology approaches. 
+
+I am a trained clinical laboratory scientist with extensive experience in chemical pathology and haematology, gained at <a href="https://www.uwi.edu"> The University of the West Indies </a> and the <a href="https://uhwi.gov.jm"> University Hospital of the West Indies </a>, in Jamaica. Additionally, I hold an <a href="https://www.nottingham.ac.uk/medicine/study-with-us/postgraduate/postgraduate-taught-courses/testimonials/oncology-msc-student-profiles.aspx"> MSc in Oncology </a> from the <a href="https://www.nottingham.ac.uk"> University of Nottingham </a>, in the United Kingdom. 
+
+
+Through my professional and doctoral work, I developed a keen interest in leveraging the power of data to advance health outcomes, particularly amongst marginalized communities. 
 
 ## Interests
-
-
-## Skills
+* Clinical Prediction Modelling & Predictive Analytics
+* Machine Learning
+* Health Outcomes and Public Health
+* Data Science
+* Science Communication and Writing
 
 :::

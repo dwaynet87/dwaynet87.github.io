@@ -2,11 +2,17 @@
 title: "Education"
 ---
 
-#### PhD in Women’s + & Children Health Sciences (pending)
-###### University of British Columbia, Vancouver, Canada 
 
-#### MSc. in Oncology (with Merit)
-###### University of Nottingham, Nottingham, United Kingdom
+#### PhD in Women’s + & Children Health Sciences, (expected - 2024)
+###### *The University of British Columbia, Vancouver, Canada* 
+###### **Thesis Title: Clinical and Molecular Prediction of Pain Outcomes After Endometriosis Surgery**
+###### Supervisors: <a href="https://www.bcchr.ca/pyong"> Dr. Paul Yong </a> | <a href="https://bmiai.ubc.ca/people/aline-talhouk"> Dr. Aline Talhouk </a>
 
-#### BSc. in Medical Technology
-###### Northern Caribbean University, Manchester, Jamaica
+#### MSc in Oncology, (2017)
+###### *University of Nottingham, Nottingham, United Kingdom*
+###### **Thesis Title: Characterisation of Integrin Beta-3 in response to sublethal chemotoxicity in Acute Myeloid Leukaemia**
+###### Supervisor: Dr. Monica Pallis
+
+#### BSc in Medical Technology, (2010)
+###### *Northern Caribbean University, Manchester, Jamaica*
+###### **Thesis Title: Should the clinical laboratory recommend that Vanillylmandelic Acid (VMA) be a test routinely ordered for hypertensive patients?**
