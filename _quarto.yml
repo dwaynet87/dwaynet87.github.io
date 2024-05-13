@@ -11,11 +11,13 @@ website:
       - education.qmd
       - projects.qmd
       - awards.qmd
+      - publications.qmd
       
 
 format:
   html:
-    theme: Minty
+    theme: sandstone
+    fontsize: 1rem
     css: styles.css
     toc: true
 
