@@ -3,7 +3,7 @@ title: "Dwayne R. Tucker, MSc, PhD Candidate"
 image: folding_headshot.jpg
 about:
   id: me
-  template: solana
+  template: trestles
   image-shape: round
   image-width: 15em
   links: 
