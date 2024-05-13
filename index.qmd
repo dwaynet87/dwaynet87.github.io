@@ -28,7 +28,7 @@ about:
 ## About me
 Hi!
 
-I am a PhD candidate in the <a href="https://wach.med.ubc.ca"> Women+ and Children's Health Sciences (WACH) program </a> at <a href="https://www.ubc.ca"> The University of British Columbia (UBC) </a> in Vancouver, British Columbia, Canada. As part of the <a href="https://yonglab.med.ubc.ca"> Endometriosis & Pelvic Pain Laboratory </a> and <a href="https://uterinehealth.ca"> Uterine Health Reasearch Lab </a>, my doctoral research delves into predicting pain outcomes in endometriosis, employing a combination of machine learning, clinical modelling, and molecular pathology approaches. 
+I am a PhD candidate at <a href="https://www.ubc.ca"> The University of British Columbia (UBC) </a> in Vancouver, British Columbia, Canada. As part of the <a href="https://yonglab.med.ubc.ca"> Endometriosis & Pelvic Pain Laboratory </a> and <a href="https://uterinehealth.ca"> Uterine Health Reasearch Lab </a>, my doctoral research delves into predicting pain outcomes in endometriosis, employing a combination of machine learning, clinical modelling, and molecular pathology approaches. 
 
 I am a trained clinical laboratory scientist with extensive experience in chemical pathology and haematology, gained at <a href="https://www.uwi.edu"> The University of the West Indies </a> and the <a href="https://uhwi.gov.jm"> University Hospital of the West Indies </a>, in Jamaica. Additionally, I hold an <a href="https://www.nottingham.ac.uk/medicine/study-with-us/postgraduate/postgraduate-taught-courses/testimonials/oncology-msc-student-profiles.aspx"> MSc in Oncology </a> from the <a href="https://www.nottingham.ac.uk"> University of Nottingham </a>, in the United Kingdom. 
 
