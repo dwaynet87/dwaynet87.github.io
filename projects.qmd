@@ -1,13 +1,68 @@
 ---
-title: "Projects"
+title: "Research"
+
 ---
 
 
-## Doctoral Projects
+## Original Clinical & Molecular Research
+### [Pelvic pain comorbidities and quality of life after endometriosis surgery](https://pubmed.ncbi.nlm.nih.gov/37148956/) 
+\ **Tucker DR**, Noga HL, Lee C, Chiu DS, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ. Am J Obstet Gynecol. 2023;229(2):147.e1-147.e20.
+&nbsp;
 
-#### Project 1: Pelvic pain comorbidities and quality of life after endometriosis surgery
+<img src="ajog_aim1.jpg" style="width:45%; margin-right: 20px" align="right">
 
-#### Project 2: Predicting pain-related outcomes after endometriosis surgery
+Endometriosis is a chronic condition affecting ~10% of reproductive-aged women. Surgery is an effective treatment for most individuals experiencing endometriosis-related pain, however a significant proportion experience persistent/ recurrent pain. Persistent/ recurrent pain after endometriosis surgery may be due to central sensitization or nociplastic pain. In centralized pain, pain processing in the brain is altered leading to pain perception even after the pain stimili (e.g. endometriosis lesions) is removed. In this prospective longitudinal study, we examined whether the preoperative presence of pelvic pain comorbidities, indicative of underlying central sensitization,is associated with worse pain-related quality of life after endometriosis surgery. 
 
-#### Project 3: Somatic PTEN and ARID1A loss and endometriosis disease burden
+&nbsp;
+
+
+
+
+### [Standardized protocol for quantification of nerve bundle density as a biomarker for endometriosis](https://pubmed.ncbi.nlm.nih.gov/38098984) 
+\ Zoet G, **Tucker DR**, Orr NL, Alotaibi FT, Liu YD, Noga H, Köbel M, Yong PJ.Front Reprod Health. 2023;5:1297986.
+&nbsp;
+
+<img src="nerve_protocol_image.jpg" style="width:45%; margin-right: 20px" align="left">
+
+We propose a standardized protocol for the measurement of nerve bundle density (PGP9.5) in endometriosis environment (including deep endometriosis, ovarian endometriomas and superficial peritoneal endometriosis) as a potential biomarker reflecting local neurogenesis.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
+## Journal Reviews
+
+### [Assessing the Utility of artificial intelligence in endometriosis: Promises and pitfalls](https://journals.sagepub.com/doi/full/10.1177/17455057241248121)
+\ Dungate B, **Tucker DR**, Goodwin E, Yong PJ. Womens Health (Lond). 2024;20:17455057241248121.
+&nbsp;
+
+<img src="ai_review_image.jpeg" style="width:50%; margin-right: 20px" align="right">
+
+This study examines how artificial intelligence (AI) can improve the diagnosis and treatment of endometriosis, a condition that affects many women but is underfunded and hard to diagnose due to varied symptoms. AI, which analyzes large datasets to find new patterns, is increasingly used in medical research. Its applications in endometriosis include diagnostic tools and treatment prediction, potentially reducing diagnostic delays, healthcare costs, and providing better treatment options. However, AI's success depends on high-quality data and skilled implementation. The review highlights the need for careful and transparent use of AI to avoid mistakes and ensure reliable outcomes, calling for more oversight in AI research to enhance endometriosis care.
+
+&nbsp;
+
+
+
+### [Circular RNA and its potential as prostate cancer biomarkers](https://pubmed.ncbi.nlm.nih.gov/32879844)
+\ **Tucker D**, Zheng W, Zhang DH, Dong X. World J Clin Oncol. 2020;11(8):563-572.
+&nbsp;
+
+<img src="circRNA_image.jpg" style="width:50%; margin-right: 20px" align="left">
+
+Advancing knowledge of the transcriptome has revealed that circular RNAs (circRNAs) are widely expressed and evolutionarily conserved molecules that may serve relevant biological roles. More interesting is the accumulating evidence which demonstrates the implication of circRNAs in diseases, especially cancers. This revelation has helped to form the rationale for many studies exploring their utility as clinical biomarkers. CircRNAs are highly stable due to their unique structures, exhibit some tissue specificity, and are enriched in exosomes, which facilitate their detection in a range of body fluids. These properties make circRNAs ideal candidates for biomarker development in many diseases. This review will outline the discovery, biogenesis, and proposed functions of circRNAs.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 

@@ -20,6 +20,7 @@ format:
     fontsize: 1rem
     css: styles.css
     toc: true
+    toc-depth: 6
 
 
 
