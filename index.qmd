@@ -3,7 +3,7 @@ title: "Dwayne R. Tucker, MSc, PhD Candidate"
 image: folding_headshot.jpg
 about:
   id: me
-  template: trestles
+  template: broadside
   image-shape: round
   image-width: 15em
   links: 
@@ -42,4 +42,7 @@ Through my professional and doctoral work, I developed a keen interest in levera
 * Data Science
 * Science Communication and Writing
 
+
 :::
+
+
