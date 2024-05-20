@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 ### Journal Articles
+* Sreya M, **Tucker DR**, Yi J, Alotaibi FT, Lee AF, Noga H, Yong PJ.[Nerve Bundle Density and Expression of NGF and IL-1β Are Intra-Individually Heterogenous in Subtypes of Endometriosis](https://www.mdpi.com/2218-273X/14/5/583). 2024 May. doi: 10.3390/biom14050583
+
 * Dungate B, **Tucker DR**, Goodwin E, Yong PJ. <a href="https://pubmed.ncbi.nlm.nih.gov/38686828"> Assessing the Utility of artificial intelligence in endometriosis: Promises and pitfalls. </a> Womens Health (Lond). 2024 Jan-Dec;20:17455057241248121. doi: 10.1177/17455057241248121. PMID: 38686828; PMCID: PMC11062212.
 
 * Zoet G, **Tucker DR**, Orr NL, Alotaibi FT, Liu YD, Noga H, Köbel M, Yong PJ. <a href="https://pubmed.ncbi.nlm.nih.gov/38098984"> Standardized protocol for quantification of nerve bundle density as a biomarker for endometriosis. </a> Front Reprod Health. 2023 Nov 30;5:1297986. doi: 10.3389/frph.2023.1297986. PMID: 38098984; PMCID: PMC10720898.
