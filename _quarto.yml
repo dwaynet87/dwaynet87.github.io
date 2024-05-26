@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: Flatly
     fontsize: 1rem
     css: styles.css
     toc: true
