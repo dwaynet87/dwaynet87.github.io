@@ -38,21 +38,18 @@ I am a trained clinical laboratory scientist with extensive experience in chemic
 Through my professional and doctoral work, I developed a keen interest in leveraging the power of data to advance health outcomes, particularly amongst marginalized communities. 
 
 ## Interests
-* Clinical Prediction Modelling & Predictive Analytics
+* Clinical Prediction Modelling & Research Methods
 * Machine Learning & Data Science
-* Health Outcomes and Epidemiology
-* Science Communication and Medical Writing
-* Research Methods
+* Health Outcomes & Epidemiology
+* Science Communication & Medical Writing
 
 
 ## Education
 * PhD in Health Science, 2024 (Expected)<br>[The University of British Columbia (UBC)](https://www.ubc.ca), Canada 
 &nbsp;
 
-* MSc Oncology (2017)<br>[University of Nottingham](https://www.nottingham.ac.uk), United Kingdom
-* BSc Medical Technology (2010)<br>[Northern Caribbean University](https://www.ncu.edu.jm/), Jamaica
-
-
+* MSc Oncology, 2017<br>[University of Nottingham](https://www.nottingham.ac.uk), United Kingdom
+* BSc Medical Technology, 2010<br>[Northern Caribbean University](https://www.ncu.edu.jm/), Jamaica
 
 :::
 
