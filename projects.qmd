@@ -3,6 +3,12 @@ title: "Academic Projects"
 page-layout: full
 ---
 
+## Ongoing Research
+### Predicition Model for Persistent Pain after Endometriosis Surgery
+
+This ongoing project aims to develop a prediction model to estimate a patient’s risk of unfavorable pain outcomes after endometriosis surgery, before the surgery is performed. The goal is to facilitate the decision-making discussion between patients and clinicians. For this work, **I am employing machine learning algorithms, including the exploration of neural networks, to model the complex relationship between preoperative factors in endometriosis patients and their pain outcomes**.  The model will be presented using the **R shiny** platform and will be made available once published. The project utilizes prospectively collected clinical data from the [Endometriosis Pelvic Pain Interdisciplinary Cohort (EPPIC)](https://yonglab.med.ubc.ca/eppic/).
+
+
 ## Original Clinical & Molecular Research
 ### [Nerve Bundle Density and Expression of NGF and IL-1β Are Intra-Individually Heterogenous in Subtypes of Endometriosis](https://pubmed.ncbi.nlm.nih.gov/38785989/)
 \ Sreya M, **Tucker DR**, Yi J, Alotaibi FT, Lee AF, Noga H, Yong, PJ.2024;14(5):583.
@@ -10,7 +16,7 @@ page-layout: full
 
 <img src="nerve_density_image.jpg" style="width:45%; margin-right: 20px" align="left">
 
-Endometriosis is a gynecological disorder marked by local inflammation and increased nerve bundle density due to elevated nerve growth factor (NGF) and interleukin-1β (IL-1β) levels. We analyzed tissue samples from 12 patients with various endometriosis subtypes (deep, superficial peritoneal, endometrioma), using immunohistochemistry to measure nerve bundle density (PGP9.5) and NGF and IL-1β expression. Our findings revealed significant heterogeneity in nerve bundle density and marker expression across different lesion subtypes within the same patient, with most patients showing a coefficient of variation (CV) ≥ 100%. These results suggest that future studies should stratify markers of neuroproliferation by anatomic subtype to improve clinical correlations.
+Endometriosis is a gynecological disorder marked by local inflammation and increased nerve bundle density due to elevated nerve growth factor (NGF) and interleukin-1β (IL-1β) levels. We analyzed tissue samples from 12 patients with various endometriosis subtypes (deep, superficial peritoneal, endometrioma), using **immunohistochemistry** to measure nerve bundle density (PGP9.5) and NGF and IL-1β expression. Our findings revealed significant heterogeneity in nerve bundle density and marker expression across different lesion subtypes within the same patient, with most patients showing a coefficient of variation (CV) ≥ 100%. These results suggest that future studies should stratify markers of neuroproliferation by anatomic subtype to improve clinical correlations.
 &nbsp;
 
 &nbsp;

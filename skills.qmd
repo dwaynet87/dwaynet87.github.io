@@ -1,0 +1,9 @@
+---
+title: "Skills"
+page-layout: article
+---
+
+
+<img src="data_science_radar_plot.bmp" style="width:90%; margin-right: 90px" align="left">
+
+<img src="molecular_skills_radar_plot.bmp" style="width:90%; margin-right: 90px" align="right">
