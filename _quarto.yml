@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: Flatly
+    theme: Solar
     fontsize: 1rem
     css: styles.css
     toc: true
