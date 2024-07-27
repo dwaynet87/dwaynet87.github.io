@@ -11,11 +11,13 @@ website:
       - projects.qmd
       - awards.qmd
       - publications.qmd
+      - skills.qmd
+
       
 
 format:
   html:
-    theme: Solar
+    theme: Spacelab
     fontsize: 1rem
     css: styles.css
     toc: true
