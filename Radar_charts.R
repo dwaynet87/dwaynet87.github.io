@@ -52,7 +52,7 @@ radarchart(data, axistype = 1,
            caxislabels = seq(0, 100, 25), 
            cglwd = 0.8,
            # Customize labels
-           vlcex = 1.2, 
+           vlcex = 1.3, 
            plty = 1,
            title = "Data Science Skills",
            vlabels = c("Predictive Modelling", "Statistics", "Machine Learning","R", "SQL", "Python",
