@@ -74,7 +74,7 @@
     "href": "projects.html#original-clinical-molecular-research",
     "title": "Academic Projects",
     "section": "Original Clinical & Molecular Research",
-    "text": "Original Clinical & Molecular Research\n\nNerve Bundle Density and Expression of NGF and IL-1β Are Intra-Individually Heterogenous in Subtypes of Endometriosis\n Sreya M, Tucker DR, Yi J, Alotaibi FT, Lee AF, Noga H, Yong, PJ.2024;14(5):583.  \n\nEndometriosis is a gynecological disorder marked by local inflammation and increased nerve bundle density due to elevated nerve growth factor (NGF) and interleukin-1β (IL-1β) levels. We analyzed tissue samples from 12 patients with various endometriosis subtypes (deep, superficial peritoneal, endometrioma), using immunohistochemistry to measure nerve bundle density (PGP9.5) and NGF and IL-1β expression. Our findings revealed significant heterogeneity in nerve bundle density and marker expression across different lesion subtypes within the same patient, with most patients showing a coefficient of variation (CV) ≥ 100%. These results suggest that future studies should stratify markers of neuroproliferation by anatomic subtype to improve clinical correlations.  \n \n\n\nPelvic pain comorbidities and quality of life after endometriosis surgery\n Tucker DR, Noga HL, Lee C, Chiu DS, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ. Am J Obstet Gynecol. 2023;229(2):147.e1-147.e20.  \n\nEndometriosis is a chronic condition affecting ~10% of reproductive-aged women. Surgery is an effective treatment for most individuals with endometriosis-related pain, however a significant proportion experience persistent/ recurrent pain. Persistent/ recurrent pain after endometriosis surgery may be due to central sensitization or nociplastic pain. In centralized pain, pain processing in the brain is altered leading to pain perception even after the pain stimili (e.g. endometriosis lesions) is removed. In this prospective longitudinal study, we used multivariable linear regression models to examine whether the preoperative presence of pelvic pain comorbidities, indicative of underlying central sensitization,is associated with worse pain-related quality of life after endometriosis surgery. Additionally, we trained LASSO regression models via cross-validation to identify the most influential variables on follow-up quality of life scores and presented coefficients and confidence intervals based on 1000 bootstrap samples.\n \n\n\nStandardized protocol for quantification of nerve bundle density as a biomarker for endometriosis\n Zoet G, Tucker DR, Orr NL, Alotaibi FT, Liu YD, Noga H, Köbel M, Yong PJ.Front Reprod Health. 2023;5:1297986.  \n\nWe propose a standardized protocol for the measurement of nerve bundle density (PGP9.5) in endometriosis environment (including deep endometriosis, ovarian endometriomas and superficial peritoneal endometriosis) as a potential biomarker reflecting local neurogenesis."
+    "text": "Original Clinical & Molecular Research\n\nNerve Bundle Density and Expression of NGF and IL-1β Are Intra-Individually Heterogenous in Subtypes of Endometriosis\n Sreya M, Tucker DR, Yi J, Alotaibi FT, Lee AF, Noga H, Yong, PJ. Biomolecules. 2024;14(5):583."
   },
   {
     "objectID": "projects.html#journal-reviews",
@@ -116,7 +116,7 @@
     "href": "skills.html",
     "title": "Skills",
     "section": "",
-    "text": "Description\n\n\n\n\n\nDescription"
+    "text": "!"
   },
   {
     "objectID": "check.html",

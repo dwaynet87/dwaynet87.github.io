@@ -4,9 +4,10 @@ page-layout: full
 lightbox: true
 ---
 
-
+::: {layout-ncol=2}
 <img src="data_science_radar_plot.bmp" style="width:100%; margin-right: 80px" align="left">
 
 <img src="molecular_skills_radar_plot.bmp" style="width:100%; margin-right: 80px" align="left">
 
-![Description](molecular_skills_radar_plot.bmp){width=100%}
+![](molecular_skills_radar_plot.bmp){width=100%; height=100%}
+:::
