@@ -38,8 +38,8 @@ I am a trained clinical laboratory scientist with extensive experience in chemic
 Through my professional and doctoral work, I developed a keen interest in leveraging the power of data to advance health outcomes, particularly amongst marginalized communities. 
 
 ## Interests
-* Clinical Prediction Modelling & Research Methods
-* Machine Learning & Data Science
+* Data Science (Predictive Modelling & Machine Learning)
+* Research Methods
 * Health Outcomes & Epidemiology
 * Science Communication & Medical Writing
 
