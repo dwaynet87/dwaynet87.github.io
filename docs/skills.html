@@ -150,19 +150,26 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p><img src="data_science_radar_plot.bmp" style="width:100%; margin-right: 80px" align="left"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p><img src="molecular_skills_radar_plot.bmp" style="width:100%; margin-right: 80px" align="left"></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="molecular_skills_radar_plot.bmp" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Description"><img src="molecular_skills_radar_plot.bmp" class="img-fluid figure-img" style="width:100.0%" alt="Description"></a></p>
-<figcaption>Description</figcaption>
-</figure>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="molecular_skills_radar_plot.bmp" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="molecular_skills_radar_plot.bmp" style="height:100.0%"></a></p>
+</div>
+</div>
 </div>
 
 
-<div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-1">Description</span>
-</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -719,7 +726,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"bottom","openEffect":"zoom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
