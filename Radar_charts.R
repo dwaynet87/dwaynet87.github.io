@@ -72,8 +72,8 @@ molecular_data <- data.frame(
   Microscopy = 90,
   Cell.Culture = 95,
   Genetic.Techniques = 85,
-  Immunoassays = 95,
-  Biochemical.Testing = 95
+  Biochemical.Testing = 95,
+  Immunoassays = 95
 )
 
 # Define max and min for each skill
@@ -82,8 +82,8 @@ molecular_max_min <- data.frame(
   Microscopy = c(100, 0),
   Cell.Culture = c(100, 0),
   Genetic.Techniques = c(100, 0),
-  Immunoassays = c(100, 0),
-  Biochemical.Testing = c(100, 0)
+  Biochemical.Testing = c(100, 0),
+  Immunoassays = c(100, 0)
 )
 
 # Combine max_min and data for plotting
@@ -106,7 +106,7 @@ radarchart(data, axistype = 1,
            plty = 1,
            title = "Molecular Science Skills",
            vlabels = c("Histopathology", "Microscopy", "Cell Culture", 
-                       "Genetic Testing", "ELISA", "Bio-chem Tests"))
+                       "Genetic Testing", "Biochem", "ELISA"))
 
 
 
