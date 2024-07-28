@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-page-layout: article
+page-layout: full
 ---
 
 

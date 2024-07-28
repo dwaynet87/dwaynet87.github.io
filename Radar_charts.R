@@ -1,3 +1,5 @@
+# note : save images as 1000 x 1000
+
 # Load the fmsb library
 library(fmsb)
 
@@ -105,13 +107,69 @@ radarchart(data, axistype = 1,
            caxislabels = seq(0, 100, 25), 
            cglwd = 0.8,
            # Customize labels
-           vlcex = 0.8, 
+           vlcex = 1, 
            plty = 1,
            title = "Molecular Science Skills",
            vlabels = c("Molecular Pathology", "Immunohistochemistry", "Microscopy", "Cell Culture",
-                       "PCR", "Electrophoresis", "ELISA", "DNA Cloning", "Biochemical Testing", "DNA/RNA Extraction"))
+                       "PCR", "Electrophoresis", "ELISA", "DNA Cloning", "Biochemical Tests", "DNA/RNA Extraction"))
 
-# 
+
+
+# HEALTHCARE
+# Load necessary libraries
+library(fmsb)
+
+# Define the data
+health_data <- data.frame(
+  row.names = c("Skills"),
+  Molecular.Pathology = 90,
+  Immunohistochemistry = 90,
+  Microscopy = 90,
+  Cell.Culture = 95,
+  PCR = 85,
+  Electrophoresis = 80,
+  ELISA = 95,
+  DNA.cloning = 70,
+  Biochemical.Testing = 95,
+  DNA.RNA.Extraction = 95
+)
+
+# Define max and min for each skill
+health_max_min <- data.frame(
+  Molecular.Pathology = c(100, 0),
+  Immunohistochemistry = c(100, 0),
+  Microscopy = c(100, 0),
+  Cell.Culture = c(100, 0),
+  PCR = c(100, 0),
+  Electrophoresis = c(100, 0),
+  ELISA = c(100, 0),
+  DNA.cloning = c(100, 0),
+  Biochemical.Testing = c(100, 0),
+  DNA.RNA.Extraction = c(100, 0)
+)
+
+# Combine max_min and data for plotting
+data <- rbind(health_max_min, health_data)
+
+# Create radar chart
+radarchart(data, axistype = 1, 
+           # Polygon features
+           pcol = rgb(0.6, 0.5, 0.5, 0.9), 
+           pfcol = rgb(0.6, 0.5, 0.5, 0.5), 
+           plwd = 2,
+           # Customize the grid
+           cglcol = "grey", 
+           cglty = 1, 
+           axislabcol = "grey", 
+           caxislabels = seq(0, 100, 25), 
+           cglwd = 0.8,
+           # Customize labels
+           vlcex = 1, 
+           plty = 1,
+           title = "Molecular Science Skills",
+           vlabels = c("Molecular Pathology", "Immunohistochemistry", "Microscopy", "Cell Culture",
+                       "PCR", "Electrophoresis", "ELISA", "DNA Cloning", "Biochemical Tests", "DNA/RNA Extraction"))
+
 
 
 

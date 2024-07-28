@@ -1,13 +1,38 @@
 ---
 title: "Experience"
+page-layout: full
 ---
 
-Research Assistant
-<a href="https://www.bcchr.ca/pyong"> Dr. Paul Yong </a>
+```{r}
+library(timevis)
+
+timevis_data <- data.frame(
+  id = 1:6,
+  content = c("Laboratory Medicine", "Molecular Oncology Research", "Clinical Research", "Data Science", "Machine Learning", "Deep Learning"),
+  start = c("2010-07", "2017-01", "2018-10", "2020-09", "2021-01", "2024-04"),
+  end = c("2019-08", "2020-03", NA, NA, NA, NA)
+)
+
+#timevis(timevis_data)
 
 
+```
 
-Senior Medical Technologist/ Clinical Laboratory Scientist
-<br>[The University of the West Indies (UWI)](https://www.uwi.edu)
 
-[![Caption](elephant.png)](https://quarto.org)
+```{r}
+#| context: server
+
+
+#ui <- fluidPage(
+#  timevisOutput("timeline")
+#)
+
+#server <- function(input, output, session) {
+ # output$timeline <- renderTimevis({
+ #   timevis(data)
+#  })
+#}
+
+#shinyApp(ui = ui, server = server)
+```
+
