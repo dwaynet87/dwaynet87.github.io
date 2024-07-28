@@ -4,6 +4,6 @@ page-layout: full
 ---
 
 
-<img src="data_science_radar_plot.bmp" style="width:90%; margin-right: 90px" align="left">
+<img src="data_science_radar_plot.bmp" style="width:80%; margin-right: 80px" align="left">
 
-<img src="molecular_skills_radar_plot.bmp" style="width:90%; margin-right: 90px" align="right">
+<img src="molecular_skills_radar_plot.bmp" style="width:80%; margin-right: 80px" align="left">

@@ -36,6 +36,8 @@ max_min <- data.frame(
 # Combine max_min and data for plotting
 data <- rbind(max_min, data)
 
+par(mar = c(6, 6, 6, 6))
+
 #bmp(filename ="data.science.bmp")
 # Create radar chart
 radarchart(data, axistype = 1, 
@@ -50,7 +52,7 @@ radarchart(data, axistype = 1,
            caxislabels = seq(0, 100, 25), 
            cglwd = 0.8,
            # Customize labels
-           vlcex = 1, 
+           vlcex = 1.2, 
            plty = 1,
            title = "Data Science Skills",
            vlabels = c("Predictive Modelling", "Statistics", "Machine Learning","R", "SQL", "Python",

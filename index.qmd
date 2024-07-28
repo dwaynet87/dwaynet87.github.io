@@ -1,5 +1,6 @@
 ---
 title: "Dwayne R. Tucker, MSc, PhD Candidate"
+page-layout: full
 image: folding_headshot.jpg
 about:
   id: me
