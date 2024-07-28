@@ -1,9 +1,12 @@
 ---
 title: "Skills"
 page-layout: full
+lightbox: true
 ---
 
 
 <img src="data_science_radar_plot.bmp" style="width:80%; margin-right: 80px" align="left">
 
 <img src="molecular_skills_radar_plot.bmp" style="width:80%; margin-right: 80px" align="left">
+
+![Description](molecular_skills_radar_plot.bmp){width=80%}

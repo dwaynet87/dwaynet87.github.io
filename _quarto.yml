@@ -18,7 +18,9 @@ website:
 
 format:
   html:
-    theme: Spacelab
+    theme: 
+      light: Spacelab
+      dark: Superhero
     fontsize: 1rem
     css: styles.css
     toc: true
