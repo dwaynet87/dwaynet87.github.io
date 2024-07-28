@@ -8,10 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - skills.qmd
       - projects.qmd
       - awards.qmd
       - publications.qmd
-      - skills.qmd
+
 
       
 
