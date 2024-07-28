@@ -116,7 +116,7 @@
     "href": "skills.html",
     "title": "Skills",
     "section": "",
-    "text": "!"
+    "text": "#::: {layout-ncol=2} \n #:::"
   },
   {
     "objectID": "check.html",

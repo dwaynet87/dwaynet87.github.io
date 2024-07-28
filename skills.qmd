@@ -4,8 +4,8 @@ page-layout: full
 lightbox: true
 ---
 
-::: {layout-ncol=2}
+#::: {layout-ncol=2}
 ![](data_science_radar_plot.bmp){width=100%}
 
 ![](molecular_skills_radar_plot.bmp){width=100%}
-:::
+#:::
