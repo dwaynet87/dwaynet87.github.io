@@ -36,7 +36,7 @@ max_min <- data.frame(
 # Combine max_min and data for plotting
 data <- rbind(max_min, data)
 
-par(mar = c(6, 6, 6, 6))
+#par(mar = c(6, 6, 6, 6))
 
 #bmp(filename ="data.science.bmp")
 # Create radar chart
