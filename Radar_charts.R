@@ -72,9 +72,7 @@ molecular_data <- data.frame(
   Microscopy = 90,
   Cell.Culture = 95,
   Genetic.Techniques = 85,
-  Electrophoresis = 80,
-  ELISA = 95,
-  DNA.cloning = 70,
+  Immunoassays = 95,
   Biochemical.Testing = 95
 )
 
@@ -84,9 +82,7 @@ molecular_max_min <- data.frame(
   Microscopy = c(100, 0),
   Cell.Culture = c(100, 0),
   Genetic.Techniques = c(100, 0),
-  Electrophoresis = c(100, 0),
-  ELISA = c(100, 0),
-  DNA.cloning = c(100, 0),
+  Immunoassays = c(100, 0),
   Biochemical.Testing = c(100, 0)
 )
 
@@ -110,8 +106,7 @@ radarchart(data, axistype = 1,
            plty = 1,
            title = "Molecular Science Skills",
            vlabels = c("Histopathology", "Microscopy", "Cell Culture", 
-                       "Genetic Testing", "Electrophoresis", "ELISA", 
-                       "DNA Cloning", "Biochemical Tests"))
+                       "Genetic Testing", "ELISA", "Bio-chem Tests"))
 
 
 
