@@ -4,8 +4,23 @@ page-layout: full
 lightbox: true
 ---
 
-::: {layout-ncol=1}
+::: {layout-ncol=2}
+
 ![](data_science_radar_plot.bmp){width=100%}
 
 ![](molecular_skills_radar_plot.bmp){width=100%}
 :::
+
+Roles:
+PhD Researcher, UBC, Canada [2020- present]
+
+Research Assistant, British Columbia Centre for Disease Control, Canada [May 2023 - present]
+
+Lab Administrator, WHRI, Canada [July 2020 - Dec 2022]
+
+Research Fellowship, Fox Chase Cancer Center, Philadelphia USA [July - Aug 2019]
+
+Research Coordinator, Caribbean Institute for Health Research, Jamaica [Feb 2018 - Aug 2019]
+
+Senior Clinical Laboratory Scientist, UWI [July 2010 - Aug 2019]
+

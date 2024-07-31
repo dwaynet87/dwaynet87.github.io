@@ -1,11 +1,11 @@
 library(wordcloud2)
 
-data <- data.frame(
-  skill = c("R", "Machine Learning", "Git", "Biomedicine"),
-  freq = c(90, 80, 90, 75)
+cloud_data <- data.frame(
+  skill = c("Patient-reported outcome", "Quality Control & Assurance", "Medical Testing", "Policy"),
+  freq = c(40, 90, 90, 75)
 )
 
-wordcloud2(data)
+wordcloud2(cloud_data)
 
 
 
@@ -69,4 +69,19 @@ timevis_data <- data.frame(
 )
 
 timevis(timevis_data)
+
+
+library(ggplot2)
+skills_data <- data.frame(
+  Skill = c("Python", "Data Analysis", "Machine Learning", "Project Management", "Communication"),
+  Category = c("Programming", "Data Science", "Data Science", "Management", "Soft Skills")
+)
+
+library(ggplot2)
+
+ggplot(skills_data, aes(x = Skill, fill = Category)) +
+  geom_bar() +
+  theme_minimal() +
+  labs(title = "Skill Set", x = "Skills", y = "Count") +
+  scale_fill_brewer(palette = "Set3")
 
