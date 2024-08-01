@@ -37,7 +37,7 @@ max_min <- data.frame(
 data <- rbind(max_min, data)
 
 
-#bmp(filename ="data.science.bmp")
+#bmp(filename ="data.science.gif", width = 700, height = 500)
 # Create radar chart
 radarchart(data, axistype = 1, 
            # Polygon features
@@ -57,7 +57,6 @@ radarchart(data, axistype = 1,
            vlabels = c("Predictive Modelling", "Statistics", "Python","R", "SQL", "Machine Learning", 
                        "Data Cleaning", "Shiny", "Git", "Data-Viz" ))
            
-
 #dev.off()
 
 
