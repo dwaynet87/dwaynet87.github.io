@@ -27,9 +27,9 @@ format:
 :::
 
 ::: {.column width="55%"}
-<img src="data_science_radar_plot.bmp" style="width: 135%; max-width: none;" />
+<img src="data_science_radar_plot.bmp" class="responsive-img" style="width: 135%; max-width: none;" />
 
-<img src="molecular_skills_radar_plot.bmp" style="width: 135%; max-width: none;" />
+<img src="molecular_skills_radar_plot.bmp" class="responsive-img" style="width: 135%; max-width: none;" />
 :::
 :::
 
