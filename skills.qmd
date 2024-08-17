@@ -30,7 +30,7 @@ page-layout: full
 <img src="molecular_skills_radar_plot.bmp" class="responsive-img" style="width: 135%; max-width: none;" />
 :::
 :::
-
+<!--
 <style>
   .responsive-img {
     width: 100%;
