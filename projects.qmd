@@ -1,13 +1,12 @@
 ---
 title: "Academic Projects"
 page-layout: full
-lightbox: true
 ---
 
 ## Ongoing Research
 ### Predicition Model for Persistent Pain after Endometriosis Surgery
 
-This project aims to develop a preoperative clinical model to predict pain-related outcomes after endometriosis surgery. The goal is to craete a tool that can facilitate the decision-making discussion between patients and clinicians, thereby helping to personalize treatment for these patients. For this work, **I am employing machine learning algorithms, including the exploration of neural networks, to model the complex relationship between preoperative factors in endometriosis patients and their pain outcomes**.  The model will be presented as an online calculator using the **R Shiny** platform and will be made available once this work is published. The project utilizes prospectively collected clinical data from the [Endometriosis Pelvic Pain Interdisciplinary Cohort (EPPIC)](https://yonglab.med.ubc.ca/eppic/).
+This project aims to develop a preoperative clinical model to predict pain-related outcomes after endometriosis surgery. The goal is to create a tool that can facilitate the decision-making discussion between patients and clinicians, thereby helping to personalize treatment for these patients. For this work, **I am employing machine learning algorithms, including the exploration of neural networks, to model the complex relationship between preoperative factors in endometriosis patients and their pain outcomes**.  The model will be presented as an online calculator using the **R Shiny** platform and will be made available once this work is published. The project utilizes prospectively collected clinical data from the [Endometriosis Pelvic Pain Interdisciplinary Cohort (EPPIC)](https://yonglab.med.ubc.ca/eppic/).
 
 
 ## Original Clinical & Molecular Research

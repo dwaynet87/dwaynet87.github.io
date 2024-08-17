@@ -1,8 +1,6 @@
 ---
 title: "Experience"
-format: 
-  html: 
-    page-layout: full
+page-layout: full
 ---
 
 ## Professional Experience & Skillset Overview
