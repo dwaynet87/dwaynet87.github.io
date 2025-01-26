@@ -10,6 +10,15 @@ This project aims to develop a preoperative clinical model to predict pain-relat
 
 
 ## Original Clinical & Molecular Research
+### [Somatic PTEN and ARID1A loss and endometriosis disease burden: a longitudinal study](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deae269/7928994)
+\ **Tucker DR**, Lee AF, Orr NL, Alotaibi FT, Noga HL, Williams C, Allaire C, Bedaiwy MA, Huntsman DG, Köbel M, Anglesio MA, Yong PJ. Human Reproduction. 2024.
+&nbsp;
+
+# <img src="PTEN_paper_image.png" style="width:60%; margin-right: 20px" align="right">
+"**Cancer-driver mutations** have been identified in endometriosis cases without cancer, but their roles in the disease remain unclear. In this study, participants undergoing endometriosis surgery prospectively consented to have their tissue biopsy samples added to a biobank. I investigated the presence of abnormal alterations in two notable cancer-related markers: **PTEN and ARID1A**. Using **immunohistochemistry**, I assessed the pathology of the samples for loss of staining, indicative of potential loss or reduced presence of proteins associated with  alterations or mutations in these genes. The analysis revealed that PTEN loss was common in endometriosis in this cohort (**68%**); it was also associated with worse anatomic severity, advanced disease stage, increased surgical difficulty, and ethnic disparities. These findings highlight the potential importance of PTEN loss and other somatic mutations in endometriosis as candidates for a future molecular classification system. **All analyses (descriptive, bivariate, survival analyses etc.) and visualizations were conducted using R**.
+
+
+
 ### [Nerve Bundle Density and Expression of NGF and IL-1β Are Intra-Individually Heterogenous in Subtypes of Endometriosis](https://pubmed.ncbi.nlm.nih.gov/38785989/)
 \ Sreya M, **Tucker DR**, Yi J, Alotaibi FT, Lee AF, Noga H, Yong, PJ. Biomolecules. 2024;14(5):583.
 &nbsp;
