@@ -25,7 +25,7 @@ about:
       href: https://www.linkedin.com/in/dwayne-tucker-bsc-mt-msc-628028155/
     - text: CV
       icon: file-text
-      href: CV_SF_Dwayne_Tucker_25052024.pdf
+      href: CV_Dwayne_Tucker_31122024.pdf
 ---
 
 :::{#me}
