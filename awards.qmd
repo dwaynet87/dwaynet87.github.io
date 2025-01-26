@@ -2,6 +2,9 @@
 title: "Recognitions"
 page-layout: full
 ---
+
+List of selected Awards, Scholarships, and Honours. Total competitive graduate funding: **~ 200,648 CAD**.
+
 ### **Doctoral Level**
 *	Top Abstract & Oral Research Communication (2024) - CanSAGE 2024, Victoria, Canada
 * Women's Health Research Cluster Travel Grant (2024); 250 CAD
