@@ -2,4 +2,4 @@
 title: "R Shiny App"
 ---
 
-View the R Shiny application I build displaying prediction of poor-related quality of life after outcomes after endomertiosis surgery: [Endometriosis Pain Index](endo-pain.shinyapps.io/EPI_shinyapp/)
+View the R Shiny application I build displaying prediction of poor-related quality of life after outcomes after endometriosis surgery:[Endometriosis Pain Index](https://endo-pain.shinyapps.io/EPI_shinyapp/)
