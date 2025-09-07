@@ -32,7 +32,7 @@ about:
 ## About me
 Hi!
 
-I am a postdoctoral researcher in pharmacoepidemiology and health outcomes at <a href="https://www.ubc.ca"> The University of British Columbia (UBC) </a> in Vancouver, British Columbia, and <a href="https://www.arthritisresearch.ca/"> Arthritis Research Canada</a>. My current work focuses on the safety and effectiveness of medications in chronic disease populations, with particular attention to pregnancy and rheumatoid arthritis.
+I am a researcher in pharmacoepidemiology and health outcomes at <a href="https://www.ubc.ca"> The University of British Columbia (UBC) </a> in Vancouver, British Columbia, and <a href="https://www.arthritisresearch.ca/"> Arthritis Research Canada</a>. My current work focuses on the safety and effectiveness of medications in chronic disease populations, with particular attention to pregnancy and rheumatoid arthritis.
 
 My PhD research at UBC, conducted within the <a href="https://yonglab.med.ubc.ca"> Endometriosis & Pelvic Pain Laboratory </a> and <a href="https://uterinehealth.ca"> Uterine Health Reasearch Lab </a>, focused on predicting pain-related outcomes after endometriosis surgery. I combined machine learning and clinical modelling to develop the "Endometriosis Pain Index (EPI)"- a prediction tool designed to support surgical decision-making in endometriosis care. In parallel, I conducted molecular pathology research that showed an association between common cancer-related mutations and endometriosis severity. 
 
