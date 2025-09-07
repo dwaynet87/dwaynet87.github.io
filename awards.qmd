@@ -3,10 +3,17 @@ title: "Recognitions"
 page-layout: full
 ---
 
-List of selected Awards, Scholarships, and Honours. Total competitive graduate funding: **~ 204,000 CAD**.
+List of selected Awards, Scholarships, and Honours. 
+
+### **Research Grant Funding (non-salaried): ~245,976 CAD**
+*	Anti-racism Initiative Grant winner & Graduate Postdoctoral Studies (2021) [Primary Applicant] – UBC; 5,000 CAD
+* Advancing Equity, Diversity, and Inclusion in Arthritis Research: A Mixed Methods Group
+Concept Mapping Approach (2025) - Canadian Institutes of Health Research (CIHR); 240,976 CAD
+
+### **Competitive Graduate Scholarships and Awards: ~198,785 CAD**
 
 ### **Doctoral Level**
-*	Posit Opportunity Scholar – Posit conf (2025) – R & Python Data Science Conference (2025); ~5000 USD (~6950 CAD)
+*	Posit Opportunity Scholar – Posit conf (2025) – R & Python Data Science Conference (2025); ~5100 USD (~7000 CAD)
 * Top Abstract & Oral Research Communication (2024) - CanSAGE 2024, Victoria, Canada
 * Women's Health Research Cluster Travel Grant (2024); 250 CAD
 *	Best Oral Communication - 10th Society for Endometriosis & Uterine Disorder (SEUD) Congress in Geneva, Switzerland (2024); 500 euros (~740 CAD)
@@ -14,13 +21,12 @@ List of selected Awards, Scholarships, and Honours. Total competitive graduate f
 *	Faculty of Medicine Travel Award (2024) – UBC; 500 CAD
 *	Shaughnessy Hospital Society Fellowship in Health Care (2022-2023) - UBC; 8,350 CAD	
 *	Michael Smith Memorial Fellowship (2022-2023) - UBC; 4,275 CAD	
-*	Anti-racism Initiative Grant winner & Graduate Postdoctoral Studies (2021) – UBC; 11,000 CAD
 *	Top Three Oral Presentation (2021) – CanSAGE Conference, Canada 
 *	[Graduate Research Award in Women’s Health](https://whri.org/announcing-the-2021-graduate-and-fellowship-award-in-womens-health-recipients/) (2021-2022) - BC Women’s Health Research Institute; 13,500 CAD
 *	Graduate Student Travel Award (2022) – UBC; 500 CAD
 *	The Presidents Academic Excellence Initiative PhD Award (2020-2024) – UBC; 6,000 CAD 
 *	Faculty of Medicine Graduate Awards (2019-2024) – UBC; 8,000 CAD
-*	International Tuition Awards (2019-2024) – UBC; 16,000 CAD 
+*	International Tuition Awards (2019-2025) – UBC; 19,200 CAD 
 
 
 ### **Masters Level**
