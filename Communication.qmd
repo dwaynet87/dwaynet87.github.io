@@ -1,0 +1,18 @@
+---
+title: "Communication"
+page-layout: full
+---
+This page collates some relevant communication and knowledge translation work I have been involved in.
+
+### **Invited Talks**
+**August 2025**: 
+At the [Digital Health Research Series](https://www.bcchr.ca/digital-health-research/seminars-events) hosted by the Women's Health Research Institute and BC Children's Research Institute in Canada, I presented my application of machine learning to develop a predictive model for pain-related quality of life after endometriosis surgery, and the subsequent presentation of the Endometriosis Pain Index as an online calculator using R Shiny ***(Timestamp at 40:35)***. I shared the platform with other experts in machine learning, digital health, and artificial intelligence, Dr. John-Jose Nunez (MD) and Michael Li.
+
+{{< video https://www.youtube.com/watch?v=-_IdPaecSdU&t=2453s >}}
+
+
+
+
+**August 2022**:
+The WomensResearch Podcast on Spotify featured a discussion of my journey into women’s health research, including progress updates since receiving the BC Graduate Award in Women’s Health Research the previous year (2021).
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4S3KR5UQgSxDOXrjY1ELKD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
