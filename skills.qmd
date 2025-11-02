@@ -10,7 +10,7 @@ page-layout: full
 
 ::: {.column width="45%"}
 ### Roles
-* Postdoctoral Researcher [05/2025 - present], <br> University of British Columbia, Canada
+* Pharmacoepidemiology Postdoctoral Researcher [05/2025 - present], <br> University of British Columbia, Canada
 
 * PhD Researcher [09/2019 - 04/2025], <br> University of British Columbia, Canada
 
