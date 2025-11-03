@@ -69,6 +69,16 @@ We propose a standardized protocol for the measurement of nerve bundle density (
 
 ## Journal Reviews
 
+### [Scoping review of biosimilar disease-modifying antirheumatic drugs in pregnancy: evidence gaps and proposed outcome reporting framework](https//https://pubmed.ncbi.nlm.nih.gov/41021022/)
+\ Cheng V, Amiri N, Cheng V, Ellis U, Cragg JJ, Proulx L, **Tucker DR**, & De VeraMA. Rheumatology international.2025
+&nbsp;
+
+
+This scoping review examined what is currently known about the use of biosimilar biologic drugs—lower-cost versions of biologic therapies during pregnancy. We identified only six small studies, mostly descriptive, involving biosimilars used to treat autoimmune conditions such as arthritis and inflammatory bowel disease. Reported outcomes varied and were inconsistently measured, highlighting major evidence gaps. To improve future research, we proposed a Reproductive Health Outcomes Reporting Framework. Our review is the first synthesis of perinatal evidence on biosimilar DMARDs and underscores the need for larger, standardized studies to guide safe treatment during pregnancy.
+
+
+
+
 ### [Assessing the Utility of artificial intelligence in endometriosis: Promises and pitfalls](https://journals.sagepub.com/doi/full/10.1177/17455057241248121)
 \ Dungate B, **Tucker DR**, Goodwin E, Yong PJ. Womens Health (Lond). 2024;20:17455057241248121.
 &nbsp;
