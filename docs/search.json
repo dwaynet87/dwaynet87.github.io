@@ -123,7 +123,7 @@
     "href": "check.html",
     "title": "check",
     "section": "",
-    "text": "```ljexxthmhdqlo #| standalone: true\nlibrary(timevis) library(shiny)\ndata &lt;- data.frame( id = 1:4, content = c(“Item one”, “Item two”, “Ranged item”, “Item four”), start = c(“2016-01-10”, “2016-01-11”, “2016-01-20”, “2016-02-14 15:00:00”), end = c(NA, NA, “2016-02-04”, NA) )\nui &lt;- fluidPage( timevisOutput(“timeline”) )\nserver &lt;- function(input, output, session) { output$timeline &lt;- renderTimevis({ timevis(data) }) }\nshinyApp(ui = ui, server = server)"
+    "text": "ciunwiunc"
   },
   {
     "objectID": "check.2.html",
