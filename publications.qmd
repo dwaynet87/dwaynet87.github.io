@@ -6,7 +6,7 @@ page-layout: full
 
 * **Tucker DR**, Dungate B, Chiu DS, Noga HL, Lee C, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ et al. Endometriosis Pain Index: Development of models to predict poor pain-related quality of life after endometriosis surgery through machine learning analysis of registry data. PAIN. 2025
 
-* Cheng V, Amiri N, Cheng V, Ellis U, Cragg JJ, Proulx L, **Tucker DR**, & De VeraMA.[Scoping review of biosimilar disease-modifying antirheumatic drugs in pregnancy: evidence gaps and proposed outcome reporting framework](https//https://pubmed.ncbi.nlm.nih.gov/41021022/). Rheumatology international. 2025.
+* Cheng V, Amiri N, Cheng V, Ellis U, Cragg JJ, Proulx L, **Tucker DR**, & De Vera MA.[Scoping review of biosimilar disease-modifying antirheumatic drugs in pregnancy: evidence gaps and proposed outcome reporting framework](https//https://pubmed.ncbi.nlm.nih.gov/41021022/). Rheumatology international. 2025.
 
 * **Tucker DR**, Lee AF, Orr NL, Alotaibi FT, Noga HL, Williams C, Allaire C, Bedaiwy MA, Huntsman DG, Köbel M, Anglesio MA, Yong PJ. [Somatic PTEN and ARID1A loss and endometriosis disease burden: a longitudinal study](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deae269/7928994). Human Reproduction. 2024
 
