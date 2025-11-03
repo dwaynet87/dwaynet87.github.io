@@ -13,6 +13,7 @@ website:
       - publications.qmd
       - awards.qmd
       - RShiny.qmd
+      - Communication.qmd
 
 
       
