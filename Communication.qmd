@@ -1,5 +1,5 @@
 ---
-title: "Communication"
+title: "Science Communication"
 page-layout: full
 ---
 
@@ -20,7 +20,6 @@ The WomensResearch Podcast on Spotify featured a discussion of my journey into w
 
 ### **Workshops**
 **October 2025**:
-
 At the 2025 Arthritis Research Canada Trainee Day, themed around the advancement of AI in health research, I delivered a workshop titled “AI Prompting for Success,” which focused on using large language models and prompt engineering to enhance trainee development in graduate research.
 
 <img src="prompting_for_success.jpeg" width="100%" style="margin-left:20px; float:right;">
