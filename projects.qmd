@@ -4,12 +4,27 @@ page-layout: full
 ---
 
 ## Ongoing Research
-### Predicition Model for Persistent Pain after Endometriosis Surgery
 
-This project aims to develop a preoperative clinical model to predict pain-related outcomes after endometriosis surgery. The goal is to create a tool that can facilitate the decision-making discussion between patients and clinicians, thereby helping to personalize treatment for these patients. For this work, **I am employing machine learning algorithms, including the exploration of neural networks, to model the complex relationship between preoperative factors in endometriosis patients and their pain outcomes**.  The model will be presented as an online calculator using the **R Shiny** platform and will be made available once this work is published. The project utilizes prospectively collected clinical data from the [Endometriosis Pelvic Pain Interdisciplinary Cohort (EPPIC)](https://yonglab.med.ubc.ca/eppic/).
+### Cost-Related Medication Nonadherence (CRNA) in Canada
+I am currently leading research examining **cost-related medication nonadherence (CRNA)** in the general Canadian population. CRNA occurs when individuals delay filling prescriptions, reduce doses, or do not take medications as prescribed due to financial barriers. Using **nationally representative (weighted) survey** data, this work aims to identify who is at highest risk of CRNA and to better understand the structural, socioeconomic, and health-related factors that drive it. We are applying both **traditional epidemiologic methods and predictive modelling approaches** to quantify risk and improve identification of vulnerable populations. The goal of this research is to inform equitable drug policy, improve access to essential medications, and support evidence-based health system decision-making in Canada.
 
+### Perinatal Outcomes and Arthritis Medications
+Another ongoing area of research focuses on the safety of arthritis medications during pregnancy, particularly biologic and biosimilar disease-modifying antirheumatic drugs (DMARDs).
+Using **large, linked administrative health datasets in British Columbia**, we are examining maternal and infant outcomes among individuals exposed to these medications before and during pregnancy. This includes evaluating risks such as preterm birth, birth weight, infections, and pregnancy complications.**This work contributes real-world evidence to an area where clinical trial data are limited**, helping patients and clinicians make more informed decisions about treatment during pregnancy while balancing disease control and safety.
 
 ## Original Clinical & Molecular Research
+### [Predicition Model for Persistent Pain after Endometriosis Surgery](https://journals.lww.com/pain/fulltext/9900/endometriosis_pain_index__development_of_a_model.1125.aspx)
+\ **Tucker DR**, Dungate B, Chiu DS, Noga HL, Lee C, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ. PAIN. 2026.
+&nbsp;
+
+# <img src="EPI_image.jpg" style="width:50%; margin-right: 20px" align="left">
+
+Pain outcomes after endometriosis surgery vary widely. Up to 38% of individuals continue to experience persistent pain after surgery, and as many as 50% may undergo additional procedures. Despite this, there are very few tools available to help predict who is most likely to benefit from surgery. 
+
+In this study, I developed a model to estimate pain-related quality of life after endometriosis surgery using information available before surgery. To do this, **I used advanced statistical and machine learning methods to examine how different pre-surgical clinical factors work together to influence pain outcomes.** The final model, called the **Endometriosis Pain Index (EPI)**, uses 10 pre-surgical factors to estimate a person's probability of experiencing poor pain-related quality of life after surgery. The EPI is available as an calculator via **R Shiny**.
+
+The goal of the EPI is not to replace clinical judgment, but to support more informed conversations between patients and clinicians. By providing individualized risk estimates, it can help guide shared decision-making and support more personalized care. The project utilizes prospectively collected clinical data from the [Endometriosis Pelvic Pain Interdisciplinary Cohort (EPPIC)](https://yonglab.med.ubc.ca/eppic/).
+
 ### [Somatic PTEN and ARID1A loss and endometriosis disease burden: a longitudinal study](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deae269/7928994)
 \ **Tucker DR**, Lee AF, Orr NL, Alotaibi FT, Noga HL, Williams C, Allaire C, Bedaiwy MA, Huntsman DG, Köbel M, Anglesio MA, Yong PJ. Human Reproduction. 2024.
 &nbsp;
