@@ -4,7 +4,7 @@ page-layout: full
 ---
 ### Journal Articles
 
-* **Tucker DR**, Dungate B, Chiu DS, Noga HL, Lee C, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ et al. Endometriosis Pain Index: Development of models to predict poor pain-related quality of life after endometriosis surgery through machine learning analysis of registry data. PAIN. 2025
+* **Tucker DR**, Dungate B, Chiu DS, Noga HL, Lee C, Bedaiwy MA, Williams C, Allaire C, Talhouk A, Yong PJ. [Endometriosis Pain Index: Development of a model to predict poor pain-related quality of life after endometriosis surgery through machine learning analysis of registry data](https://journals.lww.com/pain/fulltext/9900/endometriosis_pain_index__development_of_a_model.1125.aspx). PAIN. 2026.
 
 * Cheng V, Amiri N, Cheng V, Ellis U, Cragg JJ, Proulx L, **Tucker DR**, & De Vera MA.[Scoping review of biosimilar disease-modifying antirheumatic drugs in pregnancy: evidence gaps and proposed outcome reporting framework](https//https://pubmed.ncbi.nlm.nih.gov/41021022/). Rheumatology international. 2025.
 
