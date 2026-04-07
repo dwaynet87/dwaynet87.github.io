@@ -25,7 +25,7 @@ about:
       href: https://www.linkedin.com/in/dwayne-r-tucker
     - text: CV
       icon: file-text
-      href: CV_Dwayne_Tucker_14042025.pdf
+      href: Academic_CV_Dwayne_Tucker_06042026.pdf
 ---
 
 :::{#me}
