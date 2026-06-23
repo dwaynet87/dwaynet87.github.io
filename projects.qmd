@@ -1,5 +1,5 @@
 ---
-title: "Academic Projects"
+title: "Projects"
 page-layout: full
 ---
 
@@ -120,6 +120,4 @@ Advancing knowledge of the transcriptome has revealed that circular RNAs (circRN
 &nbsp;
 
 &nbsp;
-
-
 
